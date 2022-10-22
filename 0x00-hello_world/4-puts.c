@@ -1,13 +1,14 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * Main - pgogram to dislay message
+ * main - entry point
  *
- * Return 0
+ * Description: "program to dislay message using puts"
+ *
+ * Return: "0"
  */
 
-int main()
-{  
+int main(void)
+{
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
-
 }
